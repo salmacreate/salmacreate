@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 😄👋 I'm Salma😊
+💻 Tech lover | 🎀 Dreaming big ✨
 
+### 🌸 About Me
+- 🎓 Studying Computer Science
+- 💡 Passionate about building fun & useful tech projects
+- 💖 Manifesting my dream life one line of code at a time
+  
 <!--
 **salmacreate/salmacreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
